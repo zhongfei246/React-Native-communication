@@ -1,0 +1,18 @@
+platform :ios, “7.0”
+target 'lizhongfei_rn_test' do
+pod 'React', :path => ‘./ReactComponent/node_modules/react-native', :subspecs => [
+ 'Core',
+  'ART',
+  'RCTActionSheet',
+  'RCTAdSupport',
+  'RCTGeolocation',
+  'RCTImage',
+  'RCTNetwork',
+  'RCTPushNotification',
+  'RCTSettings',
+  'RCTText',
+  'RCTVibration',
+  'RCTWebSocket',
+  'RCTLinkingIOS',
+]
+end
