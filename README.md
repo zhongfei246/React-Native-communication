@@ -3,6 +3,7 @@
 #安装与运行
 
   1.打开终端cd定位到ReactComponent文件夹下，执行npm install命令，安装下载react依赖库，
+  
   2.用Xcode打开lizhongfei_rn_test.xcworkspace，运行即可！
 
 #截图说明
@@ -11,7 +12,7 @@
    
    ![image](https://github.com/zhongfei246/React-Native-communication/blob/master/lizhongfei_rn_test/images/1.png)
    
-   2.点击上面的那行文字的运行结果（js调用native函数）！
+   2.点击上面的那行文字的运行效果图（js调用native函数）！
    
    ![image](https://github.com/zhongfei246/React-Native-communication/blob/master/lizhongfei_rn_test/images/2.png)
    
